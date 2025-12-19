@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Tarea_Bancario:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Tarea_Bancario_jar</output-path>
+    <root id="archive" name="Tarea_Bancario.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="src" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/mysql-connector-j-9.5.0/mysql-connector-j-9.5.0/mysql-connector-j-9.5.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
